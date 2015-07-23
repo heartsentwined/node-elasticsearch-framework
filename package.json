@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/heartsentwined/node-elasticsearch-framework",
   "dependencies": {
+    "async": "^1.4.0",
     "coffee-script": "^1.9.3",
     "config": "^1.14.0",
     "elasticsearch": "^5.0.0",
