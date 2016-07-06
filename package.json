@@ -13,7 +13,7 @@
   "keywords": [
     "elasticsearch"
   ],
-  "author": "Andy Li <andy@coglab.biz>",
+  "author": "Yulij Andreevich Lesov <yalesov@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/yalesov/node-elasticsearch-framework/issues"
